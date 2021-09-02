@@ -1,0 +1,25 @@
+body {
+    
+    margin-left: 20px;
+    width: 768px;
+    margin:auto;
+}
+
+h1 {
+    color: hotpink;
+    background-color: cornflowerblue;
+}
+
+h2 {
+    color: blue;
+    background-color: crimson;
+}
+
+footer {
+    color: chocolate;
+    background-color: aquamarine;
+}
+
+section {
+    background-color: aquamarine;
+}
